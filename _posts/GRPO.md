@@ -1,3 +1,14 @@
+---
+layout: post
+title: a custom post from obsidian
+date: 2025-05-12 15:53:00-0400
+description: an example of a custom blog post 
+tags: formatting obsidian md
+categories: sample-posts
+giscus_comments: true
+related_posts: true
+---
+
 Adapting LLMs for specific tasks usually involves fine-tuning through re-inforcement learning with human feedback on preference data. 
 
 * The labels might be from different labellers but it takes a one-size-fits-all approach. 
