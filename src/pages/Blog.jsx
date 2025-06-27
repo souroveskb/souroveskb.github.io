@@ -3,9 +3,9 @@ import BlogPost from '../components/BlogPost';
 
 const Blog = () => {
   const posts = [
-    '/blogs/blog1.md',
-      '/blogs/blog2.md',
-    'blogs/blog3.md',
+    '/blogs/blog1/blog.md',
+    '/blogs/blog2/blog.md',
+    '/blogs/blog3/blog.md',
   ];
 
   return (
